@@ -1,0 +1,6 @@
+neighborhood,complaints,population,road_age,utility_age,lighting_age,median_income,renter_pct,historical_funding
+Elm Heights,340,2200,15,18,10,72000,0.3,4800000
+Northbrook Estates,410,2700,35,40,25,90000,0.25,5000000
+West Gate,290,1800,25,30,20,38000,0.75,2000000
+Mapleview,120,1500,10,12,8,46000,0.55,3200000
+Southside Commons,80,1300,40,50,30,34000,0.8,1600000
